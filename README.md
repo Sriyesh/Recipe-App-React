@@ -1,12 +1,12 @@
 # Recipe Application using React
 
 ## Tech Stack + Dependency -
-React
-React-Router-Dom
-Framer-Motion
-React-Icons
-Styled-Components (Css)
-React-Splice (Customizable Carousole)
+- React
+- React-Router-Dom
+- Framer-Motion
+- React-Icons
+- Styled-Components (Css)
+- React-Splice (Customizable Carousole)
 
 
 ## Data 
