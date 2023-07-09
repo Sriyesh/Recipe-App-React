@@ -10,7 +10,7 @@
 
 
 ## Data 
-Spoonacular Api[https://spoonacular.com/food-api] was used to fetch recipes.
+[Spoonacular Api](https://spoonacular.com/food-api) was used to fetch recipes.
 
 ## Available Scripts
 In the project directory, you can run:
